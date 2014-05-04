@@ -12,3 +12,6 @@ Toasting Keypad in Android using Manifest :
     android:windowSoftInputMode="stateVisible" >
 </activity>
 
+Folder / Android Libraries ; 
+
+Detail report of all the important Android libraries
